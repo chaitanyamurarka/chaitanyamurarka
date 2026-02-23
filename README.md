@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0A66C2&height=220&section=header&text=Chaitanya%20Murarka&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Quantitative%20Developer%20%7C%20FinTech%20Engineer&descSize=18&descAlignY=55&descColor=94a3b8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:3B82F6,100:06B6D4&height=220&section=header&text=Chaitanya%20Murarka&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Quantitative%20Developer%20%E2%80%A2%20FinTech%20Engineer%20%E2%80%A2%20Algo%20Trader&descSize=16&descAlignY=55&descColor=e2e8f0" />
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&random=false&width=600&lines=Building+Automated+Trading+Systems;Quantitative+Finance+%26+Options+Strategies;Optimization+%7C+ML+%7C+Computer+Vision;Turning+Data+Into+Alpha+%F0%9F%93%88" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&random=false&width=650&height=70&lines=%F0%9F%93%88+Building+Automated+Trading+Systems+for+Indian+Markets;%F0%9F%A7%A0+Quantitative+Finance+%7C+Options+%7C+Optimization+%7C+ML" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -14,113 +14,149 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<img align="right" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="280" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
-### About Me
+### :bust_in_silhouette: About Me
 
-- :chart_with_upwards_trend: I build **automated trading systems** for live execution on NSE/BSE via Zerodha Kite
-- :brain: Deep-diving into **quantitative finance** — options strategies, straddles, RSI systems, ORB models
-- :gear: I love solving **optimization problems** — capital allocation, supply chain, multi-market portfolios
-- :robot: Also into **computer vision & ML** — YOLOv8, OCR, demand forecasting, NLP
-- :zap: Fun fact: I automate everything — including my trades
+- :chart_with_upwards_trend: I build **automated trading systems** for live execution on NSE/BSE via **Zerodha Kite**
+- :brain: Deep into **quantitative finance** — straddles, spreads, RSI, open range breakout
+- :gear: I solve **optimization problems** — capital allocation, supply chain, multi-market portfolios
+- :eye: **Computer vision & ML** — YOLOv8, OCR, demand forecasting, NLP
+- :rocket: Currently building at **Secret Weapon Trading Solution Pvt Ltd**
+- :zap: I automate everything — **including my trades**
 
 <br clear="both"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2 align="center">Tech Stack</h2>
+### :wrench: Tech Stack
 
-<table align="center">
-<tr>
-<td valign="top" width="33%">
-
-<h4 align="center">Languages</h4>
-<div align="center">
+#### :keyboard: Languages I Use
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PineScript](https://img.shields.io/badge/PineScript-131A22?style=for-the-badge&logo=tradingview&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-</div>
-</td>
-<td valign="top" width="33%">
+#### :package: Frameworks & Libraries
 
-<h4 align="center">Frameworks & Tools</h4>
-<div align="center">
-
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-</div>
+#### :file_cabinet: Databases & Infrastructure
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
+
+#### :bar_chart: Trading & Finance
+
+![Zerodha](https://img.shields.io/badge/Zerodha_Kite-387ED1?style=for-the-badge&logo=zerodha&logoColor=white)
+![TradingView](https://img.shields.io/badge/TradingView-131A22?style=for-the-badge&logo=tradingview&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### :trophy: Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+:chart_with_upwards_trend: **[Optimizer-Engine](https://github.com/chaitanyamurarka/Optimizer-Engine)**
+
+High-performance optimization engine for algorithmic trading strategies
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![Algo Trading](https://img.shields.io/badge/Algo_Trading-131A22?style=flat-square)
+
 </td>
-<td valign="top" width="33%">
+<td width="50%" valign="top">
 
-<h4 align="center">Data & ML</h4>
-<div align="center">
+:moneybag: **[Capital-Optimization](https://github.com/chaitanyamurarka/Capital-Optimization)**
 
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/sklearn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+Inventory & capital optimization using Python PuLP linear programming
 
-</div>
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![PuLP](https://img.shields.io/badge/PuLP-FF6F00?style=flat-square)
+![LP](https://img.shields.io/badge/Linear_Programming-4CAF50?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+:bar_chart: **[Short-Long-Straddle](https://github.com/chaitanyamurarka/Short-Long-Straddle)**
+
+Backtesting framework for straddle options strategies on Indian markets
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![Options](https://img.shields.io/badge/Options-E91E63?style=flat-square)
+![Backtesting](https://img.shields.io/badge/Backtesting-9C27B0?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+:zap: **[OPEN-RANGE-BREAKOUT](https://github.com/chaitanyamurarka/OPEN-RANGE-BREAKOUT)**
+
+Open range breakout strategy backtester for NIFTY
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![NIFTY](https://img.shields.io/badge/NIFTY-FF5722?style=flat-square)
+![Strategy](https://img.shields.io/badge/Trading_Strategy-2196F3?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+:crystal_ball: **[TimeSeries-Demand-Forecasting](https://github.com/chaitanyamurarka/TimeSeries-Demand-Classification-Forecasting)**
+
+Time series demand classification and forecasting for supply chain
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square)
+![Forecasting](https://img.shields.io/badge/Forecasting-00BCD4?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+:red_car: **[YoloV8-Curve-Lane-Tracking](https://github.com/chaitanyamurarka/YoloV8-Curve-Lane-Tracking)**
+
+Real-time curved lane detection and tracking using YOLOv8
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00DCDC?style=flat-square)
+![CV](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square)
+
 </td>
 </tr>
 </table>
 
-<div align="center">
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<h2 align="center">Featured Projects</h2>
-
-<div align="center">
-
-<a href="https://github.com/chaitanyamurarka/Optimizer-Engine">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=chaitanyamurarka&repo=Optimizer-Engine&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0A66C2&icon_color=0A66C2&text_color=c9d1d9" width="47%" />
-</a>
-<a href="https://github.com/chaitanyamurarka/Capital-Optimization">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=chaitanyamurarka&repo=Capital-Optimization&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0A66C2&icon_color=0A66C2&text_color=c9d1d9" width="47%" />
-</a>
-
-<a href="https://github.com/chaitanyamurarka/Short-Long-Straddle">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=chaitanyamurarka&repo=Short-Long-Straddle&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0A66C2&icon_color=0A66C2&text_color=c9d1d9" width="47%" />
-</a>
-<a href="https://github.com/chaitanyamurarka/OPEN-RANGE-BREAKOUT">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=chaitanyamurarka&repo=OPEN-RANGE-BREAKOUT&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0A66C2&icon_color=0A66C2&text_color=c9d1d9" width="47%" />
-</a>
-
-<a href="https://github.com/chaitanyamurarka/TimeSeries-Demand-Classification-Forecasting">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=chaitanyamurarka&repo=TimeSeries-Demand-Classification-Forecasting&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0A66C2&icon_color=0A66C2&text_color=c9d1d9" width="47%" />
-</a>
-<a href="https://github.com/chaitanyamurarka/YoloV8-Curve-Lane-Tracking">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=chaitanyamurarka&repo=YoloV8-Curve-Lane-Tracking&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0A66C2&icon_color=0A66C2&text_color=c9d1d9" width="47%" />
-</a>
-
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=chaitanyamurarka&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=15" width="90%" />
+### :handshake: Let's Connect
 
-</div>
+*I'm always open to collaborating on algo trading, fintech, and optimization projects.*
+
+[![LinkedIn](https://img.shields.io/badge/-Chaitanya_Murarka-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanya-murarka/)
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0A66C2&height=120&section=footer" />
+<img src="https://komarev.com/ghpvc/?username=chaitanyamurarka&label=Profile+Views&color=6C63FF&style=for-the-badge" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:3B82F6,100:06B6D4&height=120&section=footer" />
