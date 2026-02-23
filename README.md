@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:3B82F6,100:6C63FF&height=200&section=header&text=Chaitanya%20Murarka&fontColor=ffffff&fontSize=48&animation=twinkling&fontAlignY=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:6C63FF,100:8B5CF6&height=230&section=header&text=Chaitanya%20Murarka&fontColor=ffffff&fontSize=46&animation=twinkling&fontAlignY=38" />
 
 <div align="center">
 
@@ -7,8 +7,6 @@
 <br/>
 
 Building automated trading systems and optimization engines across US, EU & Asian exchanges.
-<br/>
-Currently building at **Secret Weapon Trading Solution Pvt Ltd**.
 
 <br/>
 
@@ -26,7 +24,7 @@ Currently building at **Secret Weapon Trading Solution Pvt Ltd**.
 - 🧠 &nbsp; **Quantitative finance** — straddles, spreads, RSI, ORB
 - ⚙️ &nbsp; **Optimization** — capital allocation, supply chain
 - 👁️ &nbsp; **Computer vision & ML** — YOLOv8, OCR, forecasting
-- 🚀 &nbsp; Building at **SWTS Pvt Ltd**
+- 🚀 &nbsp; Building **production trading infrastructure**
 - ⚡ &nbsp; I automate everything — including my trades
 
 <br clear="both"/>
@@ -114,4 +112,4 @@ Currently building at **Secret Weapon Trading Solution Pvt Ltd**.
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:6C63FF,100:3B82F6&height=150&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6C63FF,100:3B82F6&height=120&section=footer" />
