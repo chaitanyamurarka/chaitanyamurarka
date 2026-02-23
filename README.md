@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:3B82F6,100:06B6D4&height=220&section=header&text=Chaitanya%20Murarka&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Quantitative%20Developer%20%E2%80%A2%20FinTech%20Engineer%20%E2%80%A2%20Algo%20Trader&descSize=16&descAlignY=55&descColor=e2e8f0" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:3B82F6,100:06B6D4&height=220&section=header&text=Chaitanya%20Murarka&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Quantitative%20Developer%20%E2%80%A2%20FinTech%20Engineer%20%E2%80%A2%20Global%20Markets&descSize=16&descAlignY=55&descColor=e2e8f0" />
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&random=false&width=650&height=70&lines=%F0%9F%93%88+Building+Automated+Trading+Systems+for+Indian+Markets;%F0%9F%A7%A0+Quantitative+Finance+%7C+Options+%7C+Optimization+%7C+ML" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=500&height=35&lines=Automated+Trading+Systems;Quantitative+Finance+%26+Options;Optimization+%7C+ML+%7C+Computer+Vision;Turning+Data+Into+Alpha" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -18,7 +18,7 @@
 
 ### :bust_in_silhouette: About Me
 
-- :chart_with_upwards_trend: I build **automated trading systems** for live execution on NSE/BSE via **Zerodha Kite**
+- :globe_with_meridians: I build **automated trading systems** across **global markets** — US, EU, and Asian exchanges
 - :brain: Deep into **quantitative finance** — straddles, spreads, RSI, open range breakout
 - :gear: I solve **optimization problems** — capital allocation, supply chain, multi-market portfolios
 - :eye: **Computer vision & ML** — YOLOv8, OCR, demand forecasting, NLP
@@ -61,8 +61,9 @@
 
 #### :bar_chart: Trading & Finance
 
-![Zerodha](https://img.shields.io/badge/Zerodha_Kite-387ED1?style=for-the-badge&logo=zerodha&logoColor=white)
 ![TradingView](https://img.shields.io/badge/TradingView-131A22?style=for-the-badge&logo=tradingview&logoColor=white)
+![Interactive Brokers](https://img.shields.io/badge/Interactive_Brokers-D71920?style=for-the-badge&logoColor=white)
+![Zerodha](https://img.shields.io/badge/Zerodha_Kite-387ED1?style=for-the-badge&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -98,7 +99,7 @@ Inventory & capital optimization using Python PuLP linear programming
 
 :bar_chart: **[Short-Long-Straddle](https://github.com/chaitanyamurarka/Short-Long-Straddle)**
 
-Backtesting framework for straddle options strategies on Indian markets
+Backtesting framework for straddle options strategies
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
 ![Options](https://img.shields.io/badge/Options-E91E63?style=flat-square)
